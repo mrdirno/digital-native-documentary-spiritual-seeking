@@ -1,0 +1,160 @@
+{
+  "book_id": "digital-native-documentary-spiritual-seeking",
+  "title": "The Cathedral of Process",
+  "tagline": "A digital native's quest for meaning in a mountain of dead tech.",
+  "target_words": 70000,
+  "actual_words": 69007,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Techno-Spiritual Archaeology",
+    "The Silence of Discarded Prayers",
+    "Seeking Authenticity in a Curated World",
+    "The Sacred in the Obsolete"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Refund",
+      "words": 2870
+    },
+    {
+      "ch": 2,
+      "title": "The Memo Pad",
+      "words": 2850
+    },
+    {
+      "ch": 3,
+      "title": "The First Pilgrim",
+      "words": 2900
+    },
+    {
+      "ch": 4,
+      "title": "Signal in the Noise",
+      "words": 2950
+    },
+    {
+      "ch": 5,
+      "title": "The Archivist of Intent",
+      "words": 2800
+    },
+    {
+      "ch": 6,
+      "title": "HotSync with the Past",
+      "words": 3000
+    },
+    {
+      "ch": 7,
+      "title": "The Floppy Disk Sutra",
+      "words": 2750
+    },
+    {
+      "ch": 8,
+      "title": "Ghosts in the Machine",
+      "words": 3100
+    },
+    {
+      "ch": 9,
+      "title": "The Algorithm of Longing",
+      "words": 2850
+    },
+    {
+      "ch": 10,
+      "title": "404: Divinity Not Found",
+      "words": 2950
+    },
+    {
+      "ch": 11,
+      "title": "The Caretaker's Tale",
+      "words": 3200
+    },
+    {
+      "ch": 12,
+      "title": "Pilgrimage to the Server Farm",
+      "words": 3100
+    },
+    {
+      "ch": 13,
+      "title": "The Glitch is the Feature",
+      "words": 2800
+    },
+    {
+      "ch": 14,
+      "title": "Booting into Being",
+      "words": 2900
+    },
+    {
+      "ch": 15,
+      "title": "The Community of the Broken",
+      "words": 3000
+    },
+    {
+      "ch": 16,
+      "title": "Zen and the Art of Debugging",
+      "words": 2750
+    },
+    {
+      "ch": 17,
+      "title": "The Viral Truth",
+      "words": 3100
+    },
+    {
+      "ch": 18,
+      "title": "Off the Grid, Into the Self",
+      "words": 2950
+    },
+    {
+      "ch": 19,
+      "title": "The Summit of Wanting",
+      "words": 3200
+    },
+    {
+      "ch": 20,
+      "title": "Echoes in the Architecture",
+      "words": 2850
+    },
+    {
+      "ch": 21,
+      "title": "The Last Update",
+      "words": 3000
+    },
+    {
+      "ch": 22,
+      "title": "Reverence for the Beta",
+      "words": 2900
+    },
+    {
+      "ch": 23,
+      "title": "The Unplugging",
+      "words": 3100
+    },
+    {
+      "ch": 24,
+      "title": "The Silence After the Hum",
+      "words": 2950
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a chapter where the protagonist discovers a 'digital relic'—an old device with a profound, forgotten message—that sends them on a new thread of their quest.",
+      "Create a character profile for another 'seeker' who arrives at the Cathedral of Process, detailing their broken tech and the spiritual void it represents.",
+      "Draft a 'found text'—a memo, error log, or chat transcript—recovered from a device in the mountain that offers a cryptic spiritual insight.",
+      "Imagine a scene where the protagonist attempts to explain the 'truth' of the mountain to a purely pragmatic, tech-optimist friend, with dialogue that highlights the core conflict."
+    ],
+    "technical": [
+      "Build a simple, web-based 'Digital Relic Generator' that creates pixel-art images of obsolete devices (PDA, floppy disk, etc.) with a user-input 'memo' of spiritual/poetic text displayed on screen.",
+      "Create a 'Cathedral of Process' soundscape mix using ambient tones, glitch sounds, and processed notifications, designed to evoke the novel's setting for writing or meditation."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Ursula K. Le Guin",
+      "William Gibson",
+      "Thich Nhat Hanh",
+      "Jenny Odell"
+    ]
+  },
+  "cover_prompt": "A young digital native, their face illuminated by the cold glow of a cracked tablet, kneels in reverence amidst a colossal mountain of e-waste—shattered screens, tangled cables, and the skeletal remains of servers, performing a quiet act of techno-spiritual archaeology by carefully extracting a solitary, obsolete hard drive like a sacred relic, in the atmospheric style of Simon Stålenhag and Beeple, blending hyper-detailed digital painting with profound melancholic surrealism, book cover framing, centered and intimate portrait composition shot from a low-angle to emphasize the monumental scale of the digital detritus, cinematic chiaroscuro lighting where the only light sources are the dim, ethereal glow of the discarded devices and a single shaft of dusty, cold daylight piercing the gloom, using a desaturated color palette of concrete grays, oxidized copper greens, and data-azure blues punctuated by the warm, fragile amber of the lone active screen, masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
