@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## **CHAPTER 1**
 
 The first time I saw God, I was trying to get a refund for a defective meditation cushion.
@@ -107,6 +109,8 @@ And what server?
 The train hurtled toward Manhattan. I closed my eyes, not to meditate, but to see the mountain. To hear its silence. It was the quietest, loudest thing I’d ever heard.
 
 ---
+# Chapter 2
+
 ## **CHAPTER 2**
 
 My apartment was a monument to managed well-being. The meditation corner (ZafuPro now absent), the yoga mat permanently unfurled like a green tongue, the essential oil diffuser shaped like a smooth stone, the stack of pristine, unread books on “digital detox” and “finding your inner anchor.” It was a showroom for a life I was failing to live. I placed the Palm Pilot on my reclaimed-wood coffee table, next to a succulent that was dying from over-attentive watering. It looked like a relic from an archaeological dig, misplaced among the curated serenity.
@@ -267,6 +271,8 @@ I had a location to find. A time. 4:33 PM.
 And I knew, with a certainty that felt carved into my bones, that I would be there.
 
 ---
+# Chapter 3
+
 ## **CHAPTER 3**
 
 The New York Public Library’s main branch on 5th Avenue is a temple of a different sort. It speaks in marble hush and gilt-edged silence, in the weight of tangible knowledge. I stood before it, feeling like a heretic. My phone was off, buried at the bottom of my bag, a deliberate act that felt more radical than any digital detox I’d attempted. In my jacket pocket, the Palm Pilot was a hard, warm rectangle against my ribs. 4:28 PM.
